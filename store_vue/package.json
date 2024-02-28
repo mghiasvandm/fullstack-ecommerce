@@ -1,0 +1,35 @@
+{
+  "name": "store_vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "core-js": "^3.8.3",
+    "nuxt-tailvue": "^1.0.95",
+    "swiper": "^8.3.1",
+    "tailwind-toast": "^1.1.0",
+    "vue": "^3.2.13",
+    "vue-js-star-rating": "^1.1.5",
+    "vue-recaptcha": "^2.0.2",
+    "vue-router": "^4.0.3",
+    "vue-star-rating": "^2.1.0",
+    "vue3-star-ratings": "^1.1.0",
+    "vue3-vt-notifications": "^1.0.1",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "sass": "^1.32.7",
+    "sass-loader": "^12.0.0",
+    "tailwindcss": "^3.1.6"
+  }
+}
